@@ -1,8 +1,8 @@
 name: CI/CD to Azure Container Registry
 
 env:
-  AZURE_CONTAINER_REGISTRY: marynaacregistry.azurecr.io
-  AZURE_CONTAINER_REGISTRY_USERNAME: marynaacregistry
+  AZURE_CONTAINER_REGISTRY: marynacregistr.azurecr.io
+  AZURE_CONTAINER_REGISTRY_USERNAME: marynacregistr
   IMAGE_NAME: webapp
 
 on:
